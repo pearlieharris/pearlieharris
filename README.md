@@ -16,6 +16,7 @@ How-To Video
 
 Glossary
 Update—in WordPress, it is used to publish to the website button.
+Wordpress
 Yumpu—an application providing an easy adaptation from a pdf to an interactive web document.
 
 Overview
@@ -23,7 +24,7 @@ To provide Pearl Harris’ career information, the developer will use offline an
 
 Flowchart/Swimlanes
 
- 
+https://lucid.app/lucidchart/92b44672-bb1d-4bda-a847-7fd3c2992aaa/edit?invitationId=inv_0b11c980-8b15-4896-afa9-bc4666835818# 
 
 Formatting
 1.	Titles—Initial Caps: capitalize each word except pronouns with more than four letters
